@@ -1,0 +1,7 @@
+{
+	"id":"poneportraits", # internal id
+	"name":"Pone Portraits Mod", # displayed to the player
+	"version":"v0.1",
+	"description":"Adds portraits from Arknights to the game.",
+	"gameVersion":"0.95a-RC15",
+}
